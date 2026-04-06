@@ -1,0 +1,15 @@
+C:\Tanvir\C#\Prac\L4\L4\bin\Debug\L4.exe.config
+C:\Tanvir\C#\Prac\L4\L4\bin\Debug\L4.exe
+C:\Tanvir\C#\Prac\L4\L4\bin\Debug\L4.pdb
+C:\Tanvir\C#\Prac\L4\L4\obj\Debug\L4.csproj.AssemblyReference.cache
+C:\Tanvir\C#\Prac\L4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\Tanvir\C#\Prac\L4\L4\obj\Debug\L4.exe
+C:\Tanvir\C#\Prac\L4\L4\obj\Debug\L4.pdb
+C:\Tanvir\C#\Prac\L4\L4\obj\Debug\L4.exe.config
+C:\Tanvir\C#\Lecture\L4\L4\bin\Debug\L4.exe.config
+C:\Tanvir\C#\Lecture\L4\L4\bin\Debug\L4.exe
+C:\Tanvir\C#\Lecture\L4\L4\bin\Debug\L4.pdb
+C:\Tanvir\C#\Lecture\L4\L4\obj\Debug\L4.csproj.AssemblyReference.cache
+C:\Tanvir\C#\Lecture\L4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\Tanvir\C#\Lecture\L4\L4\obj\Debug\L4.exe
+C:\Tanvir\C#\Lecture\L4\L4\obj\Debug\L4.pdb

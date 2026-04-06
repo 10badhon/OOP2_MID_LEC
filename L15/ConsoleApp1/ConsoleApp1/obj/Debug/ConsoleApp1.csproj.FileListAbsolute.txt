@@ -1,0 +1,7 @@
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Tanvir\C#\Lecture\L15\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

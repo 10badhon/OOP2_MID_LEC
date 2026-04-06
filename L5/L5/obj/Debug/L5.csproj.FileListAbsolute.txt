@@ -1,0 +1,8 @@
+C:\Tanvir\C#\Prac\L5\L5\bin\Debug\L5.exe.config
+C:\Tanvir\C#\Prac\L5\L5\bin\Debug\L5.exe
+C:\Tanvir\C#\Prac\L5\L5\bin\Debug\L5.pdb
+C:\Tanvir\C#\Prac\L5\L5\obj\Debug\L5.csproj.AssemblyReference.cache
+C:\Tanvir\C#\Prac\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Tanvir\C#\Prac\L5\L5\obj\Debug\L5.exe
+C:\Tanvir\C#\Prac\L5\L5\obj\Debug\L5.pdb
+C:\Tanvir\C#\Prac\L5\L5\obj\Debug\L5.exe.config

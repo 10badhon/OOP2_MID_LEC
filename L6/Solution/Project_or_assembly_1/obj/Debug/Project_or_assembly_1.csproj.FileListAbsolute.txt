@@ -1,0 +1,7 @@
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\bin\Debug\Project_or_assembly_1.exe.config
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\bin\Debug\Project_or_assembly_1.exe
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\bin\Debug\Project_or_assembly_1.pdb
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\obj\Debug\Project_or_assembly_1.csproj.AssemblyReference.cache
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\obj\Debug\Project_or_assembly_1.csproj.CoreCompileInputs.cache
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\obj\Debug\Project_or_assembly_1.exe
+C:\Users\Badhon\source\repos\Solution\Project_or_assembly_1\obj\Debug\Project_or_assembly_1.pdb

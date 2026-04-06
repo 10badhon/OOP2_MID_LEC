@@ -1,0 +1,7 @@
+C:\Tanvir\C#\Prac\L3\L3\bin\Debug\L3.exe.config
+C:\Tanvir\C#\Prac\L3\L3\bin\Debug\L3.exe
+C:\Tanvir\C#\Prac\L3\L3\bin\Debug\L3.pdb
+C:\Tanvir\C#\Prac\L3\L3\obj\Debug\L3.csproj.AssemblyReference.cache
+C:\Tanvir\C#\Prac\L3\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+C:\Tanvir\C#\Prac\L3\L3\obj\Debug\L3.exe
+C:\Tanvir\C#\Prac\L3\L3\obj\Debug\L3.pdb
